@@ -12,3 +12,5 @@ fuel/app/cache/*/*
 nbproject/
 .idea
 fuel/app/config/development/db.php
+tags
+public_html
